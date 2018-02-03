@@ -38,7 +38,8 @@ public class CrazyStory {
 			System.out.print("Enter a verb: ");
 			verb = keyboard.nextLine();
 			System.out.println("Once upon a time someone named " + name + " lived in " + city +
-					" in the " + adjective + " state of " + state + ".   When " + age + " years old, ");
+					" in the " + adjective + " state of " + state + ".   When " + age + " years old, "
+					+ "");
 			
 			
 	}
