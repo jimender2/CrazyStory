@@ -18,6 +18,8 @@ public class CrazyStory {
 			//Get City
 			System.out.print("Enter your City: ");
 			city = keyboard.nextLine();
+			
+			//Get Adjective
 			System.out.print("Enter an adjective: ");
 			adjective = keyboard.nextLine();
 
