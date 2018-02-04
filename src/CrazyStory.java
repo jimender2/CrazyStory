@@ -2,13 +2,20 @@ import java.util.Scanner;
 public class CrazyStory {
 
 	public static void main(String[] args) {
+			
+			//Declared all of my variables
 			String name, city, adjective, state, college, profession, animal, petName, verb;
 			int age;
 			double pay;
 			
+			//Get scanner
 			Scanner keyboard = new Scanner (System.in);
+			
+			//Get name
 			System.out.print("Enter your Name: ");
 			name = keyboard.nextLine();
+			
+			//Get City
 			System.out.print("Enter your City: ");
 			city = keyboard.nextLine();
 			System.out.print("Enter an adjective: ");
