@@ -1,3 +1,10 @@
+/*
+ * Jonathan Meredith
+ * This program makes a crazy program based on input from the user.
+ * They input different variables and then the program goes and plugs
+ * them all into a story. This makes the story crazy.
+ */
+
 import java.util.Scanner;
 public class CrazyStory {
 
