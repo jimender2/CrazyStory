@@ -59,7 +59,7 @@ public class CrazyStory {
 			
 			//Print Story
 			System.out.println("Once upon a time someone named " + name + " lived in " + city +
-					" in the " + adjective + " state of " + state + ".\nWhen " + age + " years old, "
+					" in the " + adjective + " \nstate of " + state + ". When " + age + " years old, "
 					+ name +" went to school at " + college + ".\n" + name + " graduated and went to work as a "
 					+ profession + " while earning $" + pay + " an hour.\nThen, " + name + " adopted a(n) "
 					+ animal + " named " + petName + ".\nThey " + verb + " happily ever after!");
